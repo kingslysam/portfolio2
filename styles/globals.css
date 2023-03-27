@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.react {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.react:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+.framer-motion {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.framer-motion:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.material-ui {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.material-ui:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+
+.next {
+  border: 2px solid rgb(255, 255, 255);
+}
+.next:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.tailwind {
+  border: 2px solid rgb(6, 182, 212);
+}
+.tailwind:hover {
+  background: rgba(6, 182, 212, 0.25);
+}
+
+.python{
+  border: 2px solid #ffc107;
+}
+.python:hover {
+  background: rgb(2, 119, 189, 0.25);
+}
+
+.css-modules {
+  border: 2px solid rgb(21, 114, 182);
+}
+.css-modules:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
+
+.django {
+  border: 2px solid rgb(0, 77, 64);
+}
+.django:hover {
+  background: rgba(0, 77, 64, 0.25);
+}
+
+.flutter {
+  border: 2px solid rgb(80, 230, 255);
+}
+.flutter:hover {
+  background: rgba(80, 230, 255, 0.25);
+}
+
+.sqlite {
+  border: 2px solid #28b4ff;
+}
+.sqlite:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
